@@ -1,11 +1,15 @@
 ## Hi there 👋
 
+I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My work aims at identifying and characterising star clusters and stellar structures in the Milky Way, by applying efficient data mining and machine learning methods to large datasets. This in turns allows to to map the current structure of the Milky Way in three dimensions, and to track its evolution through time.
+
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="500" />
+
 Click here for an overview of my scientific work in astronomy:
 🔭 [TristanCantatGaudin.github.io](TristanCantatGaudin.github.io)
 
 I am currently the lead developer of the Python package [GaiaUnlimited](https://github.com/gaia-unlimited/gaiaunlimited), a package for querying and constructing selection functions for the Gaia survey developed by the GaiaUnlimited collaboration.
 
-This page also hosts some of my professional and hobby projects.
+This page hosts some of my professional and hobby projects.
 
 ---
 ### [Gaia citations through ADS](https://github.com/TristanCantatGaudin/ADS-Gaia-Citations)
@@ -30,11 +34,9 @@ Streamlit app to display yearly shot volume and efficiency for NBA players. Depl
 
 ---
 ### [Playground](https://github.com/TristanCantatGaudin/playground)
-This repository hosts Jupyter and Marimo notebooks, with data visualisation projects related to: astronomy, weather, geospatial data (from Flickr, OpenStreetMap, satellite imagery), mathematics and statistics, stock market, sports.
+This repository hosts Jupyter and Marimo notebooks, with data visualisation projects related to: astronomy, weather, geospatial data (from Flickr, OpenStreetMap, satellite imagery), mathematics and statistics, stock market, sports...
 
 
-
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="500" />
 
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/max_temp_1950_2024.png" width="500" />
 
