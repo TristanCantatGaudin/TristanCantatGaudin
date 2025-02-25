@@ -10,6 +10,8 @@ This page also hosts some of my professional and hobby projects, notably:
 ---
 ### [Gaia citations through ADS](https://github.com/TristanCantatGaudin/ADS-Gaia-Citations)
 Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive [plotly figure](https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html).
+<img src="https://github.com/TristanCantatGaudin/ADS-Gaia-Citations/raw/main/citations_per_month.png" width="500" />
+
 
 ---
 ### [rainbowprint](https://github.com/TristanCantatGaudin/rainbowprint)
