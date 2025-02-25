@@ -2,6 +2,8 @@
 
 I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My work aims at identifying and characterising star clusters and stellar structures in the Milky Way, by applying efficient data mining and machine learning methods to large datasets. This in turns allows to to map the current structure of the Milky Way in three dimensions, and to track its evolution through time.
 
+Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from publicly available data, using clusters for which I have established the stellar members and the main parameters:
+
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="500" />
 
 Click here for an overview of my scientific work in astronomy:
