@@ -34,7 +34,7 @@ Streamlit app to display yearly shot volume and efficiency for NBA players. Depl
 
 ---
 ### [Playground](https://github.com/TristanCantatGaudin/playground)
-This repository hosts Jupyter and Marimo notebooks, with data visualisation projects related to: astronomy, weather, geospatial data (from Flickr, OpenStreetMap, satellite imagery), mathematics and statistics, stock market, sports...
+This repository hosts Jupyter and Marimo notebooks, with data visualisation projects related to: astronomy, weather, geospatial data (from Flickr, OpenStreetMap, satellite imagery), mathematics and statistics, stock market, sports, deep learning...
 
 
 
