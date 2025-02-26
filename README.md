@@ -28,8 +28,8 @@ The rest of this page lists some of my professional and hobby projects:
 <table border="0">
   <tbody>
     <tr>
-      <td>Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive <a href="https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html">plotly figure</a>.</td>
-      <td><img src="https://github.com/TristanCantatGaudin/ADS-Gaia-Citations/raw/main/citations_per_month.png" width="500" /></td>
+      <td width="400px">Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive <a href="https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html">plotly figure</a>.</td>
+      <td width="500px"><img src="https://github.com/TristanCantatGaudin/ADS-Gaia-Citations/raw/main/citations_per_month.png" width="500" /></td>
     </tr>
   </tbody>
 </table>
