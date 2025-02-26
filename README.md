@@ -23,15 +23,16 @@ The rest of this page lists some of my professional and hobby projects:
 ### [Gaia citations through ADS](https://github.com/TristanCantatGaudin/ADS-Gaia-Citations)
 
 
-<table border="0">
-<tr>
-Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive <a href="https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html">plotly figure</a>.
-</tr>
-<tr>
-<img src="https://github.com/TristanCantatGaudin/ADS-Gaia-Citations/raw/main/citations_per_month.png" width="500" />
-</tr>
-</table>
 
+
+<table>
+  <thead>
+    <tr>
+      <th>Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive <a href="https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html">plotly figure</a>.</th>
+      <th><img src="https://github.com/TristanCantatGaudin/ADS-Gaia-Citations/raw/main/citations_per_month.png" width="500" /></th>
+    </tr>
+  </thead>
+</table>
 
 
 
