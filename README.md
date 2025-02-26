@@ -10,7 +10,7 @@ Click here for an overview of my scientific work in astronomy:
 🔭 [TristanCantatGaudin.github.io](https://TristanCantatGaudin.github.io)
 
 ---
-<img src="https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png" width="300" />
+<img src="https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png" width="150" />
 
 I am currently the lead developer of the Python package [GaiaUnlimited](https://github.com/gaia-unlimited/gaiaunlimited), a package for querying and constructing selection functions for the Gaia survey developed by the GaiaUnlimited collaboration.
 
