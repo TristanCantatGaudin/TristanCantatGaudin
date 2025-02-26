@@ -43,3 +43,5 @@ This repository hosts Jupyter and Marimo notebooks, with data visualisation proj
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/max_temp_1950_2024.png" width="500" />
 
 <img src="https://github.com/TristanCantatGaudin/playground/raw/main/img/img_venezia.png" width="500" />
+
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" width=500 height=200 />
