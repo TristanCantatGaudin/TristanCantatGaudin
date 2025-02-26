@@ -40,8 +40,8 @@ This repository hosts Jupyter and Marimo notebooks, with data visualisation proj
 
 
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/max_temp_1950_2024.png" width="500" />
+<a href="https://github.com/TristanCantatGaudin/playground/blob/main/max_temp_three_cities.ipynb"><img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/max_temp_1950_2024.png" width="500" /></a>
 
-<img src="https://github.com/TristanCantatGaudin/playground/raw/main/img/img_venezia.png" width="500" />
+<a href="https://github.com/TristanCantatGaudin/playground/blob/main/geotagged_photos_venezia.ipynb"><img src="https://github.com/TristanCantatGaudin/playground/raw/main/img/img_venezia.png" width="500" /></a>
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" width=500 height=200 />
+<a href="https://github.com/TristanCantatGaudin/playground/blob/main/bar_chart_color_rain.ipynb"><img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" width=500 height=200 /></a>
