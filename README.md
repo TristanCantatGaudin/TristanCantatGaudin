@@ -6,7 +6,7 @@ I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My w
 
 Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from publicly available data, using clusters for which I have established the stellar members and the main parameters:
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" />
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" /> see [notebook](https://github.com/TristanCantatGaudin/playground/blob/main/composite_Gaia_cmd.ipynb)
 
 Click here for an overview of my scientific work in astronomy:
 🔭 [TristanCantatGaudin.github.io](https://TristanCantatGaudin.github.io)
