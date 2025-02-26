@@ -6,13 +6,14 @@ The data collected by the ESA mission Gaia is published as several huge datasets
 
 <img src="https://github.com/TristanCantatGaudin/TristanCantatGaudin/blob/main/ocs_mw_xyz_1500.png" width="800" />
 
-## Estimating the ages of star clusters
+## Estimating the ages and other parameters of star clusters with Neural Networks and Deep Learning
 
-The age of a stellar cluster can be estimated by looking at the distribution of its stars in a colour-magnitude diagram. A complete modelling of this distribution can provide deep insight into the cluster's properties, but can also be extremely time consuming, potentially requiring hours for a single cluster. In order to be able to quickly process thousands of clusters at once, I have [trained a Neural Network](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C/abstract) to return cluster ages, and showed that the young clusters trace a fragmented spiral pattern in the Milky Way. In [another paper](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract) we used a `Convolutional Neural Network` to automatically classify clusters and asterisms.
+The age of a stellar cluster can be estimated by looking at the distribution of its stars in a colour-magnitude diagram. A complete modelling of this distribution can provide deep insight into the cluster's properties, but can also be extremely time consuming, potentially requiring hours for a single cluster. In order to be able to quickly process thousands of clusters at once, I have [trained a Neural Network](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C/abstract) to return cluster ages, and showed that the young clusters trace a fragmented spiral pattern in the Milky Way. In [another paper](https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..45C/abstract) (Castro-Ginard et al. 2020) we used a `Convolutional Neural Network` to automatically classify clusters and asterisms. In [this study](https://ui.adsabs.harvard.edu/abs/2024AJ....167...12C/abstract) (Cavallo et al. 2024) we make use of optical and near-infrared photometry, and show that our `Multi-Layer Perceptron` is also able to estimate the overall chemical content of cluster stars.
 
 Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from [publicly available data](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/640/A1), using clusters for which I have established the stellar members and the main parameters:
 
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" /> 
+
 See the code in [this notebook](https://github.com/TristanCantatGaudin/playground/blob/main/composite_Gaia_cmd.ipynb).
 
 
