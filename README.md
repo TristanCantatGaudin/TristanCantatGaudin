@@ -9,14 +9,16 @@ Studying star clusters also allows us to take a detailed look at stellar evoluti
 Click here for an overview of my scientific work in astronomy:
 🔭 [TristanCantatGaudin.github.io](https://TristanCantatGaudin.github.io)
 
+
+
+The rest of this page lists some of my professional and hobby projects:
+
 ---
 <img src="https://github.com/TristanCantatGaudin/TristanCantatGaudin/blob/main/gu_banner_800.png" width="400" />
 
 I am currently the lead developer of the Python package [GaiaUnlimited](https://github.com/gaia-unlimited/gaiaunlimited), a package for querying and constructing selection functions for the Gaia survey developed by the GaiaUnlimited collaboration.
 
 
-
-The rest of this page lists some of my professional and hobby projects:
 
 ---
 
