@@ -27,7 +27,7 @@ Provides daily updates for the number of citations to the Gaia collaboration pap
 
 ---
 ### [rainbowprint](https://github.com/TristanCantatGaudin/rainbowprint)
-A template for a simple Python package. It actually does something: applies colour gradients to string!
+A template for a simple Python package. It actually does something: applies colour gradients to strings! It works in the terminal and in Jupyter notebooks.
 
 <img src="https://github.com/TristanCantatGaudin/rainbowprint/raw/main/docs/example1.png" width="500" />
 
