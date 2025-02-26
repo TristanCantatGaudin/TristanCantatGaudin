@@ -1,3 +1,16 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
 ## Hi there 👋
 
 I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My work aims at identifying and characterising star clusters and stellar structures in the Milky Way, by applying efficient data mining and machine learning methods to large datasets. This in turns allows to to map the current structure of the Milky Way in three dimensions, and to track its evolution through time.
@@ -25,7 +38,7 @@ The rest of this page lists some of my professional and hobby projects:
 
 
 
-<table style="border:0px">
+<table>
   <tbody>
     <tr>
       <td>Provides daily updates for the number of citations to the Gaia collaboration papers, using the ADS API. The graph is updated every day through GitHub actions. It is also available as an interactive <a href="https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html">plotly figure</a>.</td>
