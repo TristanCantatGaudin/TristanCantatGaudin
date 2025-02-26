@@ -1,16 +1,16 @@
-## Hi there 👋
-
 I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My work aims at identifying and characterising star clusters and stellar structures in the Milky Way, by applying efficient data mining and machine learning methods to large datasets. This in turns allows to to map the current structure of the Milky Way in three dimensions, and to track its evolution through time.
 
 ## Cluster mining and Milky-Way mapping
 
-The data collected by the ESA mission Gaia is published as several huge datasets, with the main table having about 2 billion rows and over 100 columns. With efficient methods, we can identify groups of stars with common properties and travelling together through the Galaxy. The projects I have led and participated in use a variety of clustering methods, including `k-means` clustering, `DBSCAN`, `HDBSCAN`, Gaussian Mixture Models, and dimensionality reduction techniques such as `t-SNE`, `PCA`, and `UMAP`.
+The data collected by the ESA mission Gaia is published as several huge datasets, with the main table having about 2 billion rows and over 100 columns. With efficient methods, we can identify groups of stars with common properties and travelling together through the Galaxy. The projects I have led and participated in use a variety of clustering methods, including `k-means` clustering, `DBSCAN`, `HDBSCAN`, `Gaussian Mixture Models`, and dimensionality reduction techniques such as `t-SNE`, `PCA`, and `UMAP`. Gaia allowed us to discover hundreds of new clusters, some in remote regions of the Milky Way, but many of them in the Solar neighbourhood!
 
 <img src="https://github.com/TristanCantatGaudin/TristanCantatGaudin/blob/main/ocs_mw_xyz_1500.png" width="800" />
 
 ## Estimating the ages of star clusters
 
-Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from publicly available data, using clusters for which I have established the stellar members and the main parameters:
+The age of a stellar cluster can be estimated by looking at the distribution of its stars in a colour-magnitude diagram. A complete modelling of this distribution can provide deep insight into the cluster's properties, but can also be extremely time consuming, potentially requiring hours for a single cluster. In order to be able to quickly process thousands of clusters at once, I have [trained a `Neural Network`](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C/abstract) to return cluster ages, and showed that the young clusters trace a fragmented spiral pattern in the Milky Way.
+
+Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from [publicly available data](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/A+A/640/A1), using clusters for which I have established the stellar members and the main parameters:
 
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" /> 
 (see the code in [this notebook](https://github.com/TristanCantatGaudin/playground/blob/main/composite_Gaia_cmd.ipynb))
