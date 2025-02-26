@@ -2,15 +2,26 @@
 
 I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My work aims at identifying and characterising star clusters and stellar structures in the Milky Way, by applying efficient data mining and machine learning methods to large datasets. This in turns allows to to map the current structure of the Milky Way in three dimensions, and to track its evolution through time.
 
+## Cluster mining and Milky-Way mapping
+
+The data collected by the ESA mission Gaia is published as several huge datasets, with the main table having about 2 billion rows and over 100 columns. With efficient methods, we can identify groups of stars with common properties and travelling together through the Galaxy. The projects I have led and participated in use a variety of clustering methods, including `k-means` clustering, `DBSCAN`, `HDBSCAN`, Gaussian Mixture Models, and dimensionality reduction techniques such as `t-SNE`, `PCA`, and `UMAP`.
+
 <img src="https://github.com/TristanCantatGaudin/TristanCantatGaudin/blob/main/ocs_mw_xyz_1500.png" width="800" />
+
+## Estimating the ages of star clusters
 
 Studying star clusters also allows us to take a detailed look at stellar evolution. This HR diagram is constructed from publicly available data, using clusters for which I have established the stellar members and the main parameters:
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" /> (see the code in [this notebook](https://github.com/TristanCantatGaudin/playground/blob/main/composite_Gaia_cmd.ipynb))
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/img_cmd.png" width="350" /> 
+(see the code in [this notebook](https://github.com/TristanCantatGaudin/playground/blob/main/composite_Gaia_cmd.ipynb))
+
+
+### More about my astro work
 
 Click here for an overview of my scientific work in astronomy:
 🔭 [TristanCantatGaudin.github.io](https://TristanCantatGaudin.github.io)
 
+and [here](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22cantat-gaudin%22&sort=date%20desc%2C%20bibcode%20desc) for a full list of the studies I have authored and co-authored.
 
 
 The rest of this page lists some of my professional and hobby projects:
