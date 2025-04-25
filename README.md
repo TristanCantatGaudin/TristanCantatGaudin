@@ -2,7 +2,7 @@ I am an astronomer at the Max Planck Institute for Astronomy in Heidelberg. My w
 
 I have long been active in spectroscopic surveys, notably writing data processing and analysis software for large batches of observational data for the Gaia-ESO Survey, preparing target catalogues for 4MOST, and in the target selection of WEAVE.
 
-## Cluster mining and Milky-Way mapping
+## Mapping the Milky-Way and mining for star clusters
 
 The data collected by the ESA mission Gaia is published as several huge datasets, with the main table having about 2 billion rows and over 100 columns. With efficient methods, we can identify groups of stars with common properties and travelling together through the Galaxy. The projects I have led and participated in use a variety of clustering methods, including `k-means` clustering, `DBSCAN`, `HDBSCAN`, `Gaussian Mixture Models`, and dimensionality reduction techniques such as `t-SNE`, `PCA`, and `UMAP`. Gaia allowed us to discover hundreds of new clusters, some in remote regions of the Milky Way, but many of them in the Solar neighbourhood!
 
